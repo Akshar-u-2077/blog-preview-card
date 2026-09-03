@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Akshar-u-2077/blog-preview-card.git
+- Live Site URL: https://akshar-u-2077.github.io/blog-preview-card/
 
 ## My process
 
